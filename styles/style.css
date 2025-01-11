@@ -163,7 +163,7 @@ border: 1px solid #D5D6D8;
     background:#5490F5;
     border-radius:16px;
     padding: 32px;
-    width: 410px; height:325px;
+    width: 300px; height:300px;
 }
 .Digital {
     font-size:20px;
@@ -202,7 +202,7 @@ border: 1px solid #D5D6D8;
     background:#C6E4D6;
     border-radius:16px;
     padding: 32px;
-    width: 410px; height:325px;
+    width: 300px; height:300px;
 }
 .Green {
     font-size:20px;
@@ -235,7 +235,7 @@ border: 1px solid #D5D6D8;
     background:#F7EBCF;
     border-radius:16px;
     padding: 32px;
-    width: 410px; height:325px;
+    width: 300px; height:300px;
 }
 .Mordern {
     font-size:20px;
@@ -381,7 +381,7 @@ th {
     display: flex;
     gap: 32px;
     justify-content: space-between;
-   align-items: center;
+    align-items:center;
     padding: 56px 48px;
     background: #FFFFFF;
     margin-bottom:24px;
@@ -394,19 +394,19 @@ th {
     display: flex;
     gap: 32px;
     justify-content: space-between;
-    align-items: center;
+    align-items:center;
     padding: 56px 48px;
     background: #FFFFFF;
     margin-bottom:24px;
     border-radius: 24px;
  }
   .news3 {
-    height: 402px;
+     height: 402px;
     background: yellow;
     display: flex;
     gap: 32px;
     justify-content: space-between;
-    align-items: center;
+    align-items:center;
     padding: 56px 48px;
     background: #FFFFFF;
     margin-bottom:24px;
